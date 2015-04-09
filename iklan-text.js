@@ -50,6 +50,6 @@
     }
 })(jQuery);
 $(function () {
-    $(".arlina-iklan-sidebar").iklanaccordion();
-    $(".arlina-iklan-post-footer").iklanaccordion()
+    $(".laksana-iklan-sidebar").iklanaccordion();
+    $(".laksana-iklan-post-footer").iklanaccordion()
 });
